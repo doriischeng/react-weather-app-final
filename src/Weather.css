@@ -23,9 +23,9 @@
   margin: 0px;
 }
 
-.Weather img {
-  height: 64px;
-  width: 64px;
+.Weather canvas {
+  height: 56px;
+  width: 56px;
   margin-right: 10px;
   display: inline-block;
 }
