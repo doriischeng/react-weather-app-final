@@ -1,13 +1,15 @@
 .WeatherForecast {
   text-align: center;
+  color: gray;
+  margin-top: 30px;
 }
 
 .WeatherForecast-day {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .WeatherForecast-temperatures {
-  margin-top: 5px;
+  margin-top: 8px;
 }
 
 .WeatherForecast-temperatures-max {
