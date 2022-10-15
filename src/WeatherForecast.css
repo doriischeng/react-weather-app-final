@@ -1,0 +1,20 @@
+.WeatherForecast {
+  text-align: center;
+}
+
+.WeatherForecast-day {
+  margin-bottom: 5px;
+}
+
+.WeatherForecast-temperatures {
+  margin-top: 5px;
+}
+
+.WeatherForecast-temperatures-max {
+  font-weight: 500;
+}
+
+.WeatherForecast-temperatures-min {
+  opacity: 0.6;
+  margin-left: 5px;
+}
