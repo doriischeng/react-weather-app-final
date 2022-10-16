@@ -44,6 +44,10 @@
   margin-left: 5px;
 }
 
+.Weather .unit a {
+  text-decoration: none;
+}
+
 .Weather .float-left {
   float: left;
 }
